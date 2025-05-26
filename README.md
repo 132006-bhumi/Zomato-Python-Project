@@ -29,3 +29,18 @@ Here are the key questions addressed in this project:
 8️⃣ **Comparison of cost distribution based on listing type**  
 9️⃣ **Top 10 most popular restaurants (based on votes and online order availability)**  
 🔟 **How many restaurants fall into each cost category (binned)?**
+# ✅ Conclusion
+
+- 🏷️ Mid-range pricing and online availability are strong drivers of user engagement.  
+- 🍔 Online ordering is more popular than table booking.  
+- 🚚 The **"Delivery"** listing type is the most common and widely adopted by restaurants.  
+- 📊 Data-driven decisions are crucial for optimizing customer satisfaction and operational strategy in the food service industry.
+# 🚀 Tools & Libraries Used
+
+- Python  
+- Jupyter Notebook  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn
+# 🙌 Thank You!
